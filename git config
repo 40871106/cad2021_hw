@@ -1,2 +1,2 @@
-git config --global user.email "40871106@gm.nfu.edu.tw"
 git config --global user.name "40871106"
+git config --global user.email "40871106@gm.nfu.edu.tw"
